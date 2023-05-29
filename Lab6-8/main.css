@@ -1,0 +1,68 @@
+*{
+    font-family: consolas;
+}
+
+body{
+    background: #BA55D3;
+    color: #F5FFFA;
+
+}
+
+.center_block{
+    margin: auto;
+    margin-top: 3%;
+    width: 95%;
+    height: auto;
+    margin-bottom: 3%;
+    padding: 0 0 3% 0;
+    background-color: #8A2BE2;
+    border-radius: 10px;
+    box-shadow: 0 0 15px #4B0082 ;
+}
+
+
+
+.site_header{
+    width:100%;
+    margin: auto;
+}
+
+.site_header a{
+    font-size: 150%;
+}
+
+.footer_block{
+    width:100%;
+    margin:auto;
+    display:block;
+}
+
+.receipt_block{
+    margin: auto;
+    margin-top: 3%;
+    padding:1%;
+    width: 30%;
+    height: auto;
+    background-color: #9370DB;
+    border-radius: 10px;
+    box-shadow: 0 0 15px #F5FFFA ;
+}
+
+.add_receipt_block{
+    margin: auto;
+    margin-top: 3%;
+    padding:1%;
+    width: 30%;
+    height: auto;
+    background-color: #FF00FF;
+    border-radius: 10px;
+    box-shadow: 0 0 15px #BA55D3 ;
+}
+
+.group-button{
+    margin-top:20px;
+    text-align: center;
+
+}
+
+
